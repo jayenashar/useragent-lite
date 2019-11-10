@@ -23,7 +23,7 @@
     "tests": "tests"
   },
   "engines": {
-    "node": "~0.12"
+    "node": ">=0.12"
   },
   "dependencies": {},
   "devDependencies": {
